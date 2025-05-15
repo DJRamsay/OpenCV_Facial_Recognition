@@ -1,0 +1,10 @@
+^C:\USERS\DEANR\DOCUMENTS\PROJECTS\OPENCV\OPENCV_FACIAL_RECOGNITION\BUILD\CMAKEFILES\47C67D24922614F6FE62244E174E40A2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition -BC:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition/build/OpenCV_Demo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition/build/CMakeFiles/opencv_demo.dir
+C:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/deanr/Documents/Projects/OpenCV/OpenCV_Facial_Recognition/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\deanr\Documents\Projects\OpenCV\OpenCV_Facial_Recognition\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\deanr\Documents\Projects\OpenCV\OpenCV_Facial_Recognition\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3414559F-CE90-3106-B74A-17BFDF4AD4B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
